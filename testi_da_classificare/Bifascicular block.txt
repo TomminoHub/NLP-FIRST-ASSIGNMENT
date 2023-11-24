@@ -1,0 +1,12 @@
+Bifascicular block is a conduction abnormality in the heart where two of the three main fascicles of the His/Purkinje system are blocked.
+Most commonly, it refers to a combination of right bundle branch block (RBBB) and either left anterior fascicular block (LAFB) or left posterior fascicular block (LPFB), with the former being more common.[1]
+Some authors consider left bundle branch block (LBBB) to be a technical bifascicular block, since the block occurs above the bifurcation of the left anterior and left posterior fascicles of the left bundle branch.[citation needed]
+Diagnostic criteria:[citation needed]
+Clinically, bifascicular block presents with one of two ECG patterns:
+Right bundle branch block (RBBB) with left anterior fascicular block (LAFB), manifested as left axis deviation (LAD).
+RBBB and left posterior fascicular block (LPFB), manifested as right axis deviation (RAD) in the absence of other causes.
+In those with bifascicular block and no symptoms, little with respect to treatment is needed. In those with syncope, a pacemaker is recommended.[2]
+Olshansky B. Bradyarrhythmias – Conduction System Abnormalities. In: Arrhythmia Essentials 2e, 2017.
+Vijayaraman P. Clinical Cardiac Pacing, Defibrillation and Resynchronisation Therapy 5e, 2017
+Goldberger A. Ventricular Conduction Disturbances.. In: Goldberger’s Clinical Electrocardiography 9e, 2018.
+This article about a medical condition affecting the circulatory system is a stub. You can help Wikipedia by expanding it.

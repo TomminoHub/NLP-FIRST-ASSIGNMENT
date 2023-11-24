@@ -1,0 +1,5 @@
+
+The Home Computer Advanced Course 1 (ISSN 0265-2919) was a partwork magazine published by Orbis Publishing in the United Kingdom during 1984 and 1985,[1] providing a comprehensive introduction to computing and computer technology for home computer users. It ran for 96 weekly issues, succeeding the previous 24-part publication, The Home Computer Course.
+Each issue contained articles on various topics. Subjects included computer applications, computer hardware and software technology, concepts in computer science, practical electronics projects, BASIC and machine code programming, other programming languages, operating systems (including MS-DOS and UNIX), and a jargon dictionary.
+
+This UK computer magazine or journal-related article is a stub. You can help Wikipedia by expanding it.See tips for writing articles about magazines. Further suggestions might be found on the article's talk page.

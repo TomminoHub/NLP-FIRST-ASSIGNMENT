@@ -1,0 +1,3 @@
+The Uber-anatomy ontology (Uberon) is a  comparative anatomy ontology representing a variety of structures found in animals, such as lungs, muscles, bones, feathers and fins. These structures are connected to other structures via relationships such as part-of and develops-from.[1] One of the uses of this ontology is to integrate data from different biological databases, and other species-specific ontologies such as the Foundational Model of Anatomy.[2][3][4]
+
+This Biological database-related article is a stub. You can help Wikipedia by expanding it.

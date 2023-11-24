@@ -1,0 +1,7 @@
+The SCORAD ("SCORing Atopic Dermatitis") index is a clinical tool for assessing the extent of the disease, disease intensity, and subjective symptoms of atopic dermatitis.[1] It gives approximate weights of 60% to intensity and 20% each to extent and subjective symptoms. These are used to calculate a maximum total score of 103, however the scores for each category can be used individually if clinically appropriate.[2]
+The SCORAD index was developed by the European Task Force on Atopic Dermatitis in 1993.[3] The index was the most widely used disease-severity scale for atopic dermatitis between its development and 2010.[4]
+To calculate the SCORAD index, the extent of disease is determined using the rule of nines to estimate percentage of the affected body surface area. The maximum value for the extent of the disease is 100%.
+Disease intensity is then calculated based on six characteristics: erythema, edema, oozing/crusts, excoriations, lichenification, and dryness. Each characteristic is given a score between 0 and 3, where 0 is absent and 3 is severe. The scores for each characteristic are added together for a total intensity score of up to 18.
+Subjective symptoms including sleep loss and pruritus are measured using a 10 cm visual analogue scale with a total maximum score of 20.  
+The SCORAD index is then calculated with the following formula: 
+This cutaneous condition article is a stub. You can help Wikipedia by expanding it.

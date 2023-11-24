@@ -1,0 +1,6 @@
+Communications of the ACM is the monthly journal of the Association for Computing Machinery (ACM). It was established in 1958,[1] with Saul Rosen as its first managing editor. It is sent to all ACM members.[2][3]
+Articles are intended for readers with backgrounds in all areas of computer science and information systems. The focus is on the practical implications of advances in information technology and associated management issues; ACM also publishes a variety of more theoretical journals. The magazine straddles the boundary of a science magazine, trade magazine, and a scientific journal. While the content is subject to peer review, the articles published are often summaries of research that may also be published elsewhere. Material published must be accessible and relevant to a broad readership.[4]
+From 1960 onward, CACM also published algorithms, expressed in ALGOL. The collection of algorithms later became known as the Collected Algorithms of the ACM.[5]
+According to the Journal Citation Reports, the journal has a 2023 impact factor of 22.7.[6]
+
+This article about a computer science journal is a stub. You can help Wikipedia by expanding it.See tips for writing articles about academic journals. Further suggestions might be found on the article's talk page.

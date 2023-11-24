@@ -1,0 +1,59 @@
+
+C. avium
+C. butzleri
+C. canadensis
+C. cinaedi
+C. coli
+C. concisus
+C. corcagiensis
+C. cryaerophilus
+C. cuniculorum
+C. curvus
+C. fennelliae
+C. fetus
+C. gracilis
+C. helveticus
+C. hepaticus
+C. hominis
+C. hyoilei
+C. hyointestinalis
+C. insulaenigrae
+C. jejuni
+C. lanienae
+C. lari
+C. mucosalis
+C. mustelae
+C. nitrofigilis
+C. peloridis
+C. pylori
+C. rectus
+C. showae
+C. sputorum
+C. subantarcticus
+C. upsaliensis
+C. ureolyticus
+C. volucris
+Campylobacter is a type of bacteria that can cause a diarrhea disease in people.[1] Its name means "curved bacteria", as the germ typically appears in a comma or "s" shape. According to its scientific classification, it is a genus of gram-negative bacteria that is motile.[a][2]
+The germ is common in nature and in domestic animals. It is frequently found in raw food of vegetable and animal origin. Its numbers can be very high in some foods, like raw poultry.[3] Due to their diverse natural reservoir, some Campylobacter can also be detected in the air, although not in an epidemiological significance.[4] The disease that some of the species of the bacteria can cause is called campylobacteriosis.[b]
+At least a dozen species of Campylobacter have been implicated in human disease, with C. jejuni (80–90%) and C. coli (5-10%) being the most common.[6][1] C. jejuni is recognized as one of the main causes of bacterial foodborne disease in many developed countries.[6][7] It is the number one cause of bacterial gastroenteritis in Europe, with over 246,000 cases confirmed annually.[8] C. jejuni infection can also cause bacteremia in immunocompromised people, while C. lari is a known cause of recurrent diarrhea in children.[9] C. fetus can cause spontaneous abortions in cattle and sheep, and is  an opportunistic pathogen in humans.[10]
+Campylobacter spp. generally appear as curved or comma-shaped rods, and are able to move via unipolar or bipolar flagella.[2] They grow best between 37–42 °C in a microaerophilic environment.[11] When exposed to atmospheric oxygen, C. jejuni is able to change into a coccus form.[12] Most species of Campylobacter are positive by the oxidase test and catalase test and are able to reduce nitrate. The number of known quinolone-resistant Campylobacter strains is growing. It is suggested that this is caused by the overuse of quinolone antibiotics in animal agriculture.[12]
+Theodor Escherich was the first to describe in 1886 what are known today as Campylobacters in the stool samples of infants, who perished from a disease he named "cholera infantum".[13] In the following years until the end of the century, a number of publications appeared, describing the occurrence of such "spirilla" in cases of "cholera-like" and "dysenteric" disease. These organisms were mainly found in the colon or associated with mucous in diarrhoeal stool specimens. Vibrio-like bacteria were also described by Sir John McFadyean and Stockman in 1913 in fetal tissues of aborted sheep.[14] For several years Campylobacters were continuously referred to as ‘‘Vibrio-like organisms’’, until 1963 when Sebald and Veron gave the name "Campylobacter" to the genus based on their shape and microaerophilic growth requirement and after showing significant biological differences with Vibrio species.[13]
+The genomes of several Campylobacter species have been sequenced, beginning with C. jejuni in 2000.[15][16] These genome studies have identified molecular markers specific to members of Campylobacter.[citation needed] Campylobacter ssp. genomes are rather small compared to those of other gastrointestinal pathogens, with sizes ranging between 1.60 and 1.90 Mbp.[17] A characteristic of most Campylobacter genomes is the presence of hypervariable regions, which can differ greatly between different strains.[16]
+Studies have investigated the genes responsible for motility in Campylobacter species. Some Campylobacter species contain two flagellin genes in tandem for motility, flaA and flaB. These genes undergo intergenic recombination, further contributing to their virulence.[18] A single Type VI secretion system (T6SS) cluster was also predicted in approximately one-third of Campylobacter species, grouping into three distinct organisations and harbouring up to five vgrG genes.[19]
+The confusing taxonomy of Campylobacter over the past decades makes identifying the earliest reports of Campylobacter bacteriophages difficult.[citation needed] Bacteriophages specific to the species now known as C. coli and C. fetus (previously Vibrio coli and V. fetus), were first isolated from cattle and pigs during the 1960s, and Campylobacter bacteriophage therapy is an ongoing area of research in the age of bacterial antibiotic resistance.[20][21][22][23]
+Campylobacter can cause a gastrointestinal infection, campylobacteriosis. The incubation period is 24–72 hours after infection.[24] This is characterized by an inflammatory, sometimes bloody diarrhea or dysentery syndrome, mostly including cramps, fever, and pain.[3][25] The most common routes of transmission are fecal-oral, ingestion of contaminated food or water, and the eating of raw meat. Foods implicated in campylobacteriosis include raw or under-cooked poultry, raw dairy products, and contaminated produce.[26] Campylobacter is sensitive to the stomach's normal production of hydrochloric acid: as a result, the infectious dose is relatively high, and the bacteria rarely cause illness when a person is exposed to less than 10,000 organisms.[9] Nevertheless, people taking antacid medication (e. g. people with gastritis or stomach ulcers) are at higher risk of contracting disease from a smaller number of organisms, since this type of medication neutralizes normal gastric acid.[citation needed]
+In humans, the sites of tissue injury include the jejunum, the ileum, and the colon.[citation needed] Most strains of C. jejuni produce cytolethal distending toxin, which inhibits cell division and impedes activation of the immune system.  This helps the bacteria to evade the immune system and survive for a limited time inside intestinal cells.[citation needed] Campylobacter has, on rare occasions, been suggested to cause hemolytic uremic syndrome[27] and thrombotic thrombocytopenic purpura,[28] though no unequivocal case reports exist. Campylobacter infection is the most common trigger of Guillain–Barré syndrome.[29] Gastrointestinal perforation is a rare complication of ileal infection.[30]
+Campylobacter has also been associated with periodontitis.[3]
+Campylobacter testing needs to be done to manage the risk of foodborne Campylobacter and reducing the level of foodborne Campoboteriosis, to protect people and to determine if a person is infected with Campylobacter.[citation needed]
+Usually, detection of Campylobacter in humans is done by laboratory culturing a stool sample or swab of the rectum collected by a healthcare provider. Results take about 48–72 hours for preliminary results. Confirmation test and testing to determine the species of Campylobacter or drug sensitivities of the organism require additional time.[31]
+Usually, detection of Campylobacter in livestock is done by laboratory culturing a faecal sample. Results take about 48–72 hours.[32]
+Usually, detection of Campylobacter in meat is done by laboratory culturing a homogenised sample. Results takes about 48–72 hours.[32]
+The infection is usually self-limiting and, in most cases, symptomatic treatment by liquid and electrolyte replacement is sufficient to treat human infections.  Symptoms typically last 5–7 days.[26] Treatment with antibiotics has only a minor effect on the typical duration of the infection in non-complex cases, and is discouraged except in high-risk patients.[33] 
+Diagnosis of campylobacteriosis is made by testing a fecal specimen. Standard treatment in high-risk cases is azithromycin, a macrolide antibiotic, especially for Campylobacter infections in children,[34] although other antibiotics, such as quinolones, tetracycline and other macrolides are sometimes used to treat gastrointestinal Campylobacter infections in adults.[35] In case of systemic infection, other bactericidal antibiotics are used, such as ampicillin, amoxicillin/clavulanic acid, or aminoglycosides. Fluoroquinolone antibiotics, such as ciprofloxacin or levofloxacin, may no longer be effective in some cases, due to resistance.[36] In addition to antibiotics, dehydrated children may require intravenous fluid treatment in a hospital.[citation needed]
+In January 2013, the UK's Food Standards Agency (FSA) warned that two-thirds of all raw chicken bought from UK shops was contaminated with Campylobacter, affecting an estimated half a million people annually and killing about 100 of them.[37] In June 2014, the FSA started a campaign against washing raw chicken, as washing can spread germs onto clean surfaces by splashing.[38] In May 2015, cumulative results for samples taken from fresh chickens between February 2014 and February 2015 were published by the FSA and showed 73% of chickens tested positive for the presence of Campylobacter.[39]
+Campylobacter infections increased 14% in the United States in 2012 compared to the rate from 2006 to 2008.  This represents the highest reported number of infections since calendar year 2000.[26]
+High prevalence of Campylobacter (40% or more) has been reported in raw chicken meat in regional retail stores in the US, which remained steady from 2005 through 2011.[40] The last USDA quarterly progress report on Salmonella and Campylobacter testing of meat and poultry, for July–September 2014, showed a low prevalence of Campylobacter spp. in ground chicken meat, but a larger prevalence (20%) in mechanically separated chicken meat (which is sold only for further processing).[41]
+FoodNet Canada has reported that Campylobacter was the most common pathogen found on packaged chicken breast, with nearly half of all samples testing positive. Additionally, Campylobacter and Salmonella were the most common causes of gastrointestinal illness in Canada.[42]
+In August 2016, an estimated 8,000+ residents of Havelock North, a town with around 13,000 residents, had gastric illness after the water supply was thought to be contaminated by Campylobacter.[43][44][45]
+In June 2019, an estimated 2,000 residents of Askøy municipality got sick due to the presence of C. jejuni in the water supply. Two deaths were connected to the outbreak, and it was the largest outbreak of Campylobacter in Norway.[46] The suspected source of the contamination was thought to be horse faeces, which leaked into a drinking water pool.[47] A C. jejuni water isolate thought to be the cause of the outbreak was examined with human isolates, and showed the highest pathogenic potential in vitro, transcriptomic and genomic investigations. This could suggest why the isolate was able to cause an outbreak.[48]
+During the period of August 2016 to June 2017 there was a large outbreak of C. jejuni in Sweden. It was the largest outbreak that has been reported so far. 5000 more cases than would be expected during this period were reported to the authorities. The source of the outbreak was contaminated chicken meat that came from the same producer. The reason for the increased incidence and elevated levels of Campylobacter was reported to be an improperly installed washing plant, where dirty water was accidentally used to wash transport cages.[49]

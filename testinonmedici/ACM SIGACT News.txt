@@ -1,0 +1,4 @@
+ACM SIGACT or SIGACT is the Association for Computing Machinery Special Interest Group on Algorithms and Computation Theory, whose purpose is support of research in theoretical computer science. It was founded in 1968 by Patrick C. Fischer.[1]
+SIGACT publishes a quarterly print newsletter, SIGACT News. Its online version, SIGACT News Online, is available since 1996 for SIGACT members, with unrestricted access to some features.
+SIGACT sponsors or has sponsored several annual conferences.
+COLT, PODC, PODS, POPL, SODA, and STOC are all listed as highly cited venues by both citeseerx[4] and libra.[5]

@@ -1,0 +1,5 @@
+Windows IT Pro was a trade publication and web site owned by Informa serving the information needs of IT professionals working with the Microsoft Windows platform. The magazine's editorial offices were located in Ft. Collins, Colorado, USA. It was in circulation between 1995 and April 2014.[1]
+It is now exist as ITPro Today web publication.
+Established in 1995 as Windows NT Magazine in North America and NTexplorer Magazine in Europe, Windows IT Pro publishes a monthly digital magazine; produces web content, web seminars, and elearning training sessions; and hosts conferences for IT professionals. Common topics include Windows Server, Windows client, Microsoft Exchange Server, Microsoft Outlook, virtualization, cloud computing, Microsoft System Center, Active Directory, Group Policy, and PowerShell/Scripting.
+Windows IT Pro's sister web sites include Paul Thurrott's SuperSite for Windows, SQL Server Pro, SharePoint Pro, Dev Pro, and myITforum.com.
+This trade magazine–related article is a stub. You can help Wikipedia by expanding it.See tips for writing articles about magazines. Further suggestions might be found on the article's talk page.

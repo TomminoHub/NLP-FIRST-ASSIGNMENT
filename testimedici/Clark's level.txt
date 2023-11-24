@@ -1,0 +1,4 @@
+Clark's level is a staging system, which describes the level of anatomical invasion of the melanoma in the skin. It was developed by Wallace H. Clark Jr. at Harvard University and Massachusetts General Hospital in the 1960s. 
+Five anatomical levels are recognized, and higher levels have worsening prognostic implications.  These levels are:[1]
+In the United States, the current staging system adopted by the American Joint Committee on Cancer (AJCC) no longer considers Clark's level, because it is less prognostic and more subjective than other alternatives.[2]
+However, it is a mandatory component for melanoma pathology in Sweden.[3]

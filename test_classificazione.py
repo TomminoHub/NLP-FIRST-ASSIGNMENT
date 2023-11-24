@@ -11,7 +11,7 @@ nltk.download('wordnet')
 nltk.download('stopwords')
 
 
-#function that preo-process the text and create the dictionary
+#function that pre-process the text and create the dictionary
 def dictionary (text, my_dict):
     lemmatizzatore = WordNetLemmatizer()
     stoplist = stopwords.words('english')
@@ -20,10 +20,15 @@ def dictionary (text, my_dict):
         parola_minuscola = parola.lower()
         parola_minuscola = lemmatizzatore.lemmatize(parola_minuscola)
         if parola_minuscola not in stoplist and parola_minuscola.isalnum() and not parola_minuscola.isnumeric():
+            
+            #add the word to the dictionary if not in stopword list, is alfanumeric and not numeric
+            
             if parola_minuscola not in my_dict:
                 my_dict[parola_minuscola] = 1
             else:
-                my_dict[parola_minuscola] += 1          
+                my_dict[parola_minuscola] += 1
+                
+    #order by number of value          
     my_dict = dict(sorted(my_dict.items(), key=lambda x: x[1], reverse=True))
     
     return my_dict
@@ -37,12 +42,14 @@ def text_in_directory(dir):
         percorso_file = os.path.join(dir, testo)
         with open(percorso_file, 'r', encoding='utf-8') as file:
             testo = file.read()
+            
+            #parameter of dictionary is the text and the dict because we want a single dictionary for the folder
             dizionario_parole_ordinato = dictionary(testo, dizionario_parole_ordinato)
     return dizionario_parole_ordinato
         
         
         
-#deletes all the key that appears in both dictionaries
+#we create 2 medical/nonmedical bag of words eliminating all the keys that appears in both dictionaries
 def bag_of_words(medic_dict, nonmedic_dict):
     dict_copy_medic = medic_dict.copy()
     dict_copy_nonmedic = nonmedic_dict.copy()
@@ -99,13 +106,11 @@ def prior_probability(cartellamedici, cartellanonmedici):
 #the text is classified based on the higher sum 
 
 
-
-#prova
 def text_classifier( med_dict, nonmed_dict):
     testo_risultato = {}
     
     prob_prior_medico , prob_prior_nonmedico = prior_probability('testimedici' , 'testinonmedici')
-        
+    #I order the documents by creation time to calculate accuracy precision and recall   
     files = [f for f in os.listdir('testi_da_classificare') if f.endswith(".txt")]
     files_ordinati = sorted(files, key=lambda x: os.path.getctime(os.path.join('testi_da_classificare', x)))
     
@@ -120,6 +125,8 @@ def text_classifier( med_dict, nonmed_dict):
             
             with open(f'dizionario_da_classificare\{testo}', 'w', encoding='utf-8') as file:
                 json.dump(dict_text , file, indent=4)
+                
+            #if a word appear in the bag of words of medical/non-medical documents we add the logarithm of the frequencies 
             for index_1 in dict_text:
                 for index_2 in med_dict:
                     if index_1 == index_2:
@@ -131,20 +138,25 @@ def text_classifier( med_dict, nonmed_dict):
                     if index_1 == index_2:
                         sum_nonmed -= math.log(nonmed_dict[index_2])
                         break
-
+            
+            #we add the prior probability
             sum_med -= math.log(prob_prior_medico)
             sum_nonmed -= math.log(prob_prior_nonmedico)
+            
+            #we classify the text 
             if sum_med > sum_nonmed:
                 testo_risultato [testo] = True
         
             else:
                 testo_risultato [testo] = False
+            
         
     return testo_risultato
 
 
-#calculates the accuracy precision and recall using a list called gold_label created when I imported the file that ned to be classified
+#calculates the accuracy precision and recall using a list called gold_label created when I imported the file that need to be classified
 #it uses the prediction of my classifier and the effective category of the text to calculate all the paramters of my classifier
+#in the document 'import_test' at the end it's created the list 'goldlabel'
 def accuracy (dict_risultato):
     true_positive = 0
     true_negative = 0

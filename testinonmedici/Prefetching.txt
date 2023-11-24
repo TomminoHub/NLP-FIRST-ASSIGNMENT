@@ -1,0 +1,3 @@
+Prefetching in computer science is a technique for speeding up fetch operations by beginning a fetch operation whose result is expected to be needed soon.  Usually this is before it is known to be needed, so there is a risk of wasting time by prefetching data that will not be used.  The technique can be applied in several circumstances:
+
+This computer science article is a stub. You can help Wikipedia by expanding it.

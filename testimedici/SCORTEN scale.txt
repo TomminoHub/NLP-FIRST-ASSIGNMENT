@@ -1,0 +1,3 @@
+The SCORTEN scale (SCORe of Toxic Epidermal Necrosis) is a severity-of-illness scale with which the severity of certain bullous conditions can be systematically determined. It was originally developed for toxic epidermal necrolysis,[1] but can be used with burn victims, sufferers of Stevens–Johnson syndrome, cutaneous drug reactions, or exfoliative wounds.[citation needed] These conditions have in common that they compromise the integrity of the skin and/or mucous membranes.
+In the SCORTEN Scale 7 independent risk factors for high mortality are systematically scored, so as to determine the mortality rate for that particular patient.
+The more risk factors present, the higher the SCORTEN score, and the higher the mortality rate, as shown in the following table.

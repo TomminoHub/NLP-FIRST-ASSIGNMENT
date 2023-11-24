@@ -1,0 +1,3 @@
+
+PCQuest is an Indian technology publication, and part of the Cyber Media group of publications that also publish Dataquest.
+Since 2001, an initiative has been called PCQLinux, which is not entirely correct, as the name only refers to the customized Linux distribution on the CD, not the initiative to promote and support Open Source technologies. The last PCQLinux was published in 2009 after a user poll.[1]

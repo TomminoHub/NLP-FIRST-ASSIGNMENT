@@ -1,0 +1,5 @@
+Duke Treadmill Score is one of the tools for predicting the risk of ischemia or infarction in the heart muscle.[1] The calculation is done based on the information obtained from an exercise test by this formula:[citation needed]
+In which, the exercise duration is written in "minutes" and the ST changes in "millimetres".[1] Angina index will be zero if no pain appears during the exercise, one if the pain is limited to the exercise period but the patient can continue the exercise (typical angina), and two if a limiting pain occurs which is a reason to stop the exercise test.[2][3]
+Duke treadmill scores typically range from -25 (highest risk) to +15 (lowest risk).  One-year mortality and five-year survival rates respectively for the results of the Duke treadmill score have been reported as:[4][5]
+[6]
+

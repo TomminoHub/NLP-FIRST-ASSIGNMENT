@@ -1,0 +1,7 @@
+The Eczema Area and Severity Index (EASI) is a validated tool for the measurement of severity of atopic dermatitis. It ranges from 0 (no disease) to 72 (maximal disease).[1][2] The EASI was developed in 1998 by modifying the Psoriasis Area and Severity Index (PASI), a widely accepted scoring system for psoriasis.[3]
+EASI is one of the core outcome instruments recommended to be included in all clinical trials on atopic dermatitis by the Harmonising Outcome Measures for Eczema (HOME) group.[4]
+Similar to the PASI, the EASI divides the body into four regions. The head and neck (H) are assigned 10% of the body surface area, the upper limbs (U) 20%, the trunk (T) 30%, and lower limbs (L) 40%.[5] The area of involvement is determined visually for each region, and the percentage of skin affected is converted into an area score as follows:
+A severity score is then calculated for each region. The total severity score for a region is equal to the sum of the intensity scores for four clinical signs, erythema, edema/papulation, excoriation, and lichenification. The average intensity for each sign is assigned a score of 0 to 3, with 0 being none and 3 being severe.
+The region score is then calculated by multiplying the severity score for each region by the corresponding area score and area multiplier (0.1 for head, 0.2 for upper limbs, 0.3 for trunk, and 0.4 for lower limbs). 
+The final EASI score is the sum of the four regional scores.
+This dermatology article is a stub. You can help Wikipedia by expanding it.

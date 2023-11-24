@@ -1,0 +1,5 @@
+The PracTeX Journal, or simply PracTeX, also known as TPJ, was an online journal focussing on practical use of the TeX typesetting system. The first issue appeared in March 2005.[1] It was published by the TeX Users Group and intended to be a complement to their primary print journal, TUGboat. The PracTeX Journal was last published in October 2012.[2]
+Topics covered in PracTeX included:
+The editorial board included many long-time and well-known TeX developers, including Lance Carnes, Arthur Ogawa, and Hans Hagen.
+
+This computer magazine or journal-related article is a stub. You can help Wikipedia by expanding it.See tips for writing articles about magazines. Further suggestions might be found on the article's talk page.This digital typography article is a stub. You can help Wikipedia by expanding it.

@@ -1,0 +1,4 @@
+HOOPLA! — 'Hooray for Object Oriented Programming Languages!' — was a periodical published by OOPSTAD.[1]  It was one of the first publications entirely devoted to object-oriented programming techniques and the Smalltalk programming language. The magazine had its headquarters in Everett, Washington.[2]
+The first issue of HOOPLA! was available at OOPSLA-87; 1000 copies were printed.
+
+This computer magazine or journal-related article is a stub. You can help Wikipedia by expanding it.See tips for writing articles about magazines. Further suggestions might be found on the article's talk page.

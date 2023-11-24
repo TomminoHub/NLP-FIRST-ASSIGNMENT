@@ -1,0 +1,4 @@
+Tiles of the Dragon is mahjong solitaire game for DOS developed by id Software and published by Softdisk in 1993. It is one of eleven games id Software created for Softdisk, who paid $5000 for it as part of id Software's contractual obligation to them.[1] Tiles of the Dragon was later included by Softdisk as part of "The Lost Game Collection of ID Software."[2]
+Like Mahjong Solitaire itself, the object of the game is to remove as many tiles from the board as possible. Two tiles that are on top can be selected and any matching pairs will be removed from the board. The game has two modes: Solitary and Tournament. The Tournament mode has a time limit for an increased difficulty.
+Tiles of the Dragon was created as a Mahjong clone to buy id Software more time to continue with their own projects.[3]
+This digital board game-related article is a stub. You can help Wikipedia by expanding it.

@@ -1,0 +1,8 @@
+IEEE Computer Graphics and Applications (often abbreviated IEEE CG&A) is a magazine on computer graphics published by the IEEE Computer Society since 1981.[1]
+It is published six times a year.[2][3]
+As a magazine, CG&A features shorter and less technical content than would appear in an academic journal, meant for both experts and non-experts and often tutorial in nature.[4] CG&A connects the theory of computer graphics to its practice,[2] providing coverage on topics including modeling, rendering, animation, (data) visualization, HCI/user interfaces, novel applications, hardware architectures, haptics, virtual and augmented reality systems, and medical imaging.[5][3]
+One of its publishing innovations was the first animated hologram to appear on a magazine cover. The hologram, on its July 1988 cover, featured the baby from the 1988 Pixar short film Tin Toy, opening and closing its mouth.[6][7]
+Perhaps because of its familiarity to visualization researchers, publications in CG&A have been used as a test set for works studying the visualization of citation networks.[8][9] One such analysis, for an 18-year range of publications from CG&A, details the most frequently cited journals, works, and authors from articles published in the magazine, and relates a factor analysis of the articles to their subtopics.[8]
+The following people have been editor-in-chief:[10]
+The journal is indexed and abstracted in the following bibliographic databases:[11][12]
+For most of the years it has been listed, SCImago Journal Rank has ranked CG&A as a second-quartile journal in computer graphics and computer-aided design.[13]

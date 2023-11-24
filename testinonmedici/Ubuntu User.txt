@@ -1,0 +1,9 @@
+
+Ubuntu User is a paper magazine that was launched by Linux New Media AG in May 2009.[1][2]
+The publication is aimed at users of the Ubuntu operating system and focuses on reviews, community news, how to articles and troubleshooting tips. It also includes a Discovery Guide aimed at beginners.[1][2]
+Ubuntu User is published quarterly. The paper magazine is supported by a website that includes a selection of articles from the magazine available to the public as PDFs, Ubuntu news and free computer wallpaper downloads.[3][4][5]
+Issue number one consisted of 100 pages (including covers) and in its North American edition had a cover price of US$15.99 and Cdn$17.99.[6] Each issue also includes an Ubuntu live CD in the form of a DVD that new users can use to try out Ubuntu or to install it.[3]
+Linux New Media is headquartered in Munich, Germany and has offices of its US subsidiary, Linux New Media USA, LLC, in Lawrence, Kansas. The company also publishes Linux Magazine, LinuxUser, EasyLinux in German, and Linux Community.[1][3]
+In announcing the launch of the magazine, the company said:
+Ubuntu User is the first print magazine for users of the popular Ubuntu computer operating system. The power, style, and simplicity of Ubuntu is winning followers around the world. Ubuntu User offers reviews, community news, HowTo articles, and troubleshooting tips for readers who are excited about Ubuntu and want to learn more about the Ubuntu environment.[3]DistroWatch questioned the wisdom of launching a new paper magazine at this point in history:
+In a time where more and more information is moving out of the paper world and into the online realm, one publisher is bucking the trend by releasing a physical magazine...With so much high quality information available online, would you pay for a monthly paper magazine about your favourite distribution?[2]

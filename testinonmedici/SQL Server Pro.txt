@@ -1,0 +1,7 @@
+
+SQL Server Pro (ISSN 1522-2187) was a monthly trade digital publication[1] and website owned by Penton serving the information needs of IT Professionals in various fields including data processing, database administration, database development, computer-related consulting, and many other areas.
+The company had editorial offices in the San Francisco Bay Area and Fort Collins, Colorado, USA.
+Established in 1999, SQL Server Pro was a website for Microsoft SQL Server professionals. Common topics of the website and digital publication included:
+SQL Server Pro and its sister magazine, Windows IT Pro, reach very similar audiences. SQL Server Pro, however, focuses more on Microsoft's relational database management system than Windows IT Pro, which has a broader focus.
+
+This trade magazine–related article is a stub. You can help Wikipedia by expanding it.See tips for writing articles about magazines. Further suggestions might be found on the article's talk page.

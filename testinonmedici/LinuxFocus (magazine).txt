@@ -1,0 +1,5 @@
+LinuxFocus was a bi-monthly webzine covering Linux.[1] It was part of the Linux Documentation Project, and a sister webzine of the Linux Gazette. Each issue was published in a number of languages and was distributed free.[2]
+LinuxFocus was started in November 1997 by Miguel Angel Sepulveda,[2] primarily as a resource for Linux users in non-English speaking countries. Later, Guido Socher became project leader.[2] The last article was published in 2005.[3]
+LinuxFocus is issued under the terms of the GNU Free Documentation License.
+
+This Linux-related article is a stub. You can help Wikipedia by expanding it.This computer magazine or journal-related article is a stub. You can help Wikipedia by expanding it.See tips for writing articles about magazines. Further suggestions might be found on the article's talk page.

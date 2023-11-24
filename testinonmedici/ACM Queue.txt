@@ -1,0 +1,6 @@
+ACM Queue (stylized acmqueue[1]) is a bimonthly computer magazine, targeted to software engineers, published by the Association for Computing Machinery (ACM) since 2003.[2][3] It publishes research articles as well as columns, interviews, and other types of content.[1][3]
+The magazine is described as "the ACM's magazine for practicing software engineers[,] written by engineers for engineers",[4] as opposed to academic researchers.[5] Its "goal ... is to bridge the academic and industrial sides of computer science and software
+engineering".[1]
+Only articles from "specifically invited" authors are considered for publication, and there is a review process.[6][5] However, unlike some other ACM publications, is not considered a peer-reviewed journal by the organization.[7]
+Stephen R. Bourne is the editor-in-chief,[8] and helped found the magazine[citation needed] when he was president of the ACM. It is available only in electronic form[1] and is available on the Internet on subscription basis.  Some of the articles published in Queue are also included in ACM's monthly magazine, Communications of the ACM, in the Practitioner section.
+This computer magazine or journal-related article is a stub. You can help Wikipedia by expanding it.See tips for writing articles about magazines. Further suggestions might be found on the article's talk page.

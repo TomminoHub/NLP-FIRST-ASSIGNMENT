@@ -1,0 +1,11 @@
+Chromasette was the first cassette-based TRS-80 Color Computer magazine produced by David Lagerquist and was an offshoot of CLOAD magazine.[1][2] The first issue was published July 1981 and the last issue was published in July 1984.[3] Issues were published monthly.[3] It was headquartered in Santa Barbara, California.
+While some references cite the price as having been US$3.50 an issue, it was advertised in Creative Computing magazine in May 1983 as $45 a year for 12 issues, $25 for 6 issues, or $5 each.[1][4] The first issue contained 5 Basic programs and the "cover" of the electronic magazine (which had to be loaded onto a TRS-80 Color Computer and then run) was dynamic. Included with each cassette was a 5-6 page newsletter explaining the programs included on the cassette, including their PMODE and PCLEAR values (if needed), their locations on tape, and several paragraphs of documentation about each (sometimes suggesting program alterations that change or improve the results). The newsletter contained tips, rumors (for example whether the TRS-80 Color Computer would soon support 51⁄4" floppy diskette drives in addition to cassettes for loading and recording software programs), along with other insights. They contained a variety of information about the Color Computer and some of the hardware and software available for it. In addition, they included advertisements. Dave signed only his first name to the CLOAD and Chromasette letters.[1][4]
+(from comment from David Lagerquist in the April 1983 issue)
+"How do we duplicate the 6000 or so cassettes we send out each month? Rose
+just doesn't sleep! Really, the programs are read off a disk and sent
+through a line amplifier to 30 cassette recorders hooked up in parallel.
+The recorders are controlled by a Color Computer through the microphone
+jack. The 'random' clicking of 30 buttons lets us know that the tapes are
+done and that it's time to put in some more blank ones. A heck of a way to
+make a living..."[5]
+The following is an incomplete listing of files included in Chromasette issues.[6]
