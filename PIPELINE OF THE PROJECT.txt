@@ -1,0 +1,22 @@
+PIPELINE OF THE PROJECT:
+1) Import a set of medical text documents using wikipedia APIs
+2) Import a set of non medical text documents (Category: animals, computer science, sport) using wikipedia APIs
+3) Import a set of text files that need to be classified. These documents belong to two categories: Hearth diseases and House types.
+I associated a list of 1 for the medical documents (hearth diseases) and 0 for the non medical documents (house types) so in the end of my classification I can evaluate the accuracy, precision and recall.
+These 3 files and similiar. The function wich use wikipedia API recursively calls himself until it finds a final page and it write on a text file.
+
+4) 'text_classification' is the file where I do all the work. First of all I create a dictionary for all the medical text after doing the tokenization, lemmatization, stopword elimination. I also eliminate all the numbers (useless for my classification) and all the non-alfabethical characters. The dictionary contains every word after the pre-processing and its occurrences in all the texts.
+5) I do the same thing for all the non-medical texts.
+6) Then I eliminate every key that appeared in both the dicitonaries and I save them in the folder 'dizionario_occorrenze'
+7) I calculated the frequency of every word of the dictionary and I save in 'dizionario_frequenze'
+8) I do the classification of the texts. I adopted the Naive method. For every word in the text that need to be classified that appeared in the medical dictionary I substracted the logarithm of the frequency of the word (I decided to substract so at the end I have a positive number). I did the same for the non-medical words. Then, for both of medical and non-medical sum, I substracted the logarithm of the prior probability of the text (based on the number of medical/non medical text in my train set). I classify the text based of the highest sum.
+9) I calculate the accuracy, precision and recall comparing my classification and the list associated for every text that I created previously.
+
+
+
+
+-If you want to import medical/nonmedical and the text to be classify you have to eliminate all the texts in 'testimedici', 'testinonmedici' and 'testi_da_classificare' and then run:
+import_medical_text.py
+import_medical_text.py
+import_medical_text.py
+-If you want only to see the text classification, run 'test_classificazione.py'

@@ -1,0 +1,6 @@
+An endotype is a subtype of a health condition, which is defined by a distinct functional or pathobiological mechanism.[1] This is distinct from a phenotype, which is any observable characteristic or trait of a disease, such as development, biochemical or physiological properties without any implication of a mechanism. It is envisaged that patients with a specific endotype present themselves within phenotypic clusters of diseases.
+One example is asthma, which is considered to be a syndrome, consisting of a series of endotypes.[2] This is related to the concept of disease entity.
+The main concept in nosology is the disease entity. Normally there are two ways to define a disease entity: Manifestational criteria and causal criteria.[3]
+Following Fred Gifford,[4] these criteria lead one to view any disease entity in three different forms:[5]
+Following again F. Gifford, in fact each of the previous definitions can include the aetiology or can be aetiologically agnostic. Other authors simply continue with the classification of Whitbeck, leaving just three kinds of definition (clinical, pathological and aetiological).[6]
+It is important to note that a real-world definition is normally a hybrid between these above kinds, and an endotype should use all three of the descriptors - including aetiology - to ensure specificity.

@@ -1,0 +1,29 @@
+NPU terminology (NPU: Nomenclature for Properties and Units) is a patient centered clinical laboratory terminology for use in the clinical laboratory sciences. Its function is to enable results of clinical laboratory examinations to be used safely across technology, time and geography.  To achieve this, the NPU terminology supplies:
+The purpose of the NPU terminology is to enable patient examination data to be safely transmitted between laboratory information systems, recognized, compared, reused in calculations, extracted for research or statistics, and stored for documentation, without loss of meaning.  It does not cover sampling procedures or methodologies used for determining these data, which may both vary over time.
+The terminology adheres to international standards of metrology, terminology, and health informatics, in particular the International System of Quantities (ISQ) and the International Systems of Units (SI units). It currently includes over 17 000 entries widely covering multiple disciplines in the field of clinical laboratory science including:
+The NPU terminology is supported by a joint committee (C-SC-NPU) of the International Federation of Clinical Chemistry and Laboratory Medicine (IFCC) and a subcommittee of the International Union of Pure and Applied Chemistry (IUPAC).
+The terminology is freely available for download in its generic version (in English [3]) and various language versions.  The specific syntax and the references to international terminologies, classifications and nomenclatures make the terminology definitions language-independent.
+Most countries currently strive to implement eHealth systems for electronic management and communication of healthcare information.  The primary drivers for adoption of Electronic Health Records (EHR) and supporting infrastructure include:
+Before health records can be successfully communicated and stored there must be a fundamental agreement on the definition for each individual piece of information.  Terminology solutions for describing such "concepts" currently include (but are not limited to) SNOMED CT, LOINC and the NPU.  Key benefits conferred by the NPU terminology include:
+The NPU Terminology is owned by both the IFCC and IUPAC. It is governed by the NPU Steering Committee, which consists of representatives from key NPU stakeholders including IFCC, IUPAC, C-SC-NPU, and countries with recognized national release centers.
+Each NPU entry holds a structured definition of the 'result type' it identifies. 
+The definitions are expressed using well established concepts and terms from the field of laboratory medicine. References to internationally acknowledged classifications, nomenclatures and terminologies are filed where possible. This ensures that the definitions are unambiguous, and that the meaning of each concept will remain stable and accessible over time.
+The definition structure is based on the scientific concept of 'examination' – an examination studies one or more properties of a system (a delimited part of the universe).  In a clinical laboratory terminology such as the NPU terminology the system of interest is assumed to be (part of) the patient or the environment, and the NPU definition structure states:
+These statements are ordered in a fixed syntax:
+
+
+
+
+The identifying NPU codes may be used as identifiers with local terms, but a systematically shortened form of the NPU definition is available and is frequently used as a "name" in laboratory reports, for example:
+
+
+A key benefit of the NPU terminology is clear definition of terms.  Codes are generally only applied where a clear external database reference is available for unequivocal definition of terms.
+
+
+The English NPU definition structure allows for easy and reliable translation of the NPU definitions into other languages; translating each term in the structured NPU definition into another language will produce a valid definition in that language. The concept behind each term in the definition can be determined and agreed on by accessing the international code assigned to that term. The place of the concept in the syntax assigns the specific meaning of the concept in relation to the examination result.
+Translations of the NPU terminology are directly available in Danish and Swedish. The terminology has been structured such that translations into other languages is straightforward.
+C-NPU has been managing the development of structured definitions for laboratory result information for the IFCC and IUPAC and making recommendations through papers, recommendations, and technical reports.  These mostly joint documents are available from the old IUPAC website [Y].
+of Properties in Clinical Laboratory Sciences 
+
+
+While these documents formed the foundation for NPU entries applying to each scientific discipline, subsequent additions in the last decade have consisted primarily of "User driven" requests.  The day-to-day administration of the NPU Terminology has for many years been carried out by representatives from the Danish Board of Health with input from the advising NPU committee.  The NPU terminology is in nationwide use in laboratories, messages and national registers in Denmark and Sweden (which were also heavily involved in the initial development of the terminology), and in sporadic use in several other European countries.  In 2014, Norway declared the NPU terminology mandatory on a national scale for most clinical laboratory fields.

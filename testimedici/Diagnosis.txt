@@ -1,0 +1,1 @@
+Diagnosis (pl.: diagnoses) is the identification of the nature and cause of a certain phenomenon. Diagnosis is used in many different disciplines, with variations in the use of logic, analytics, and experience, to determine "cause and effect". In systems engineering and computer science, it is typically used to determine the causes of symptoms, mitigations, and solutions.[1]

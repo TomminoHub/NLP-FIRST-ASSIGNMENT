@@ -1,0 +1,3 @@
+The risk of mortality (ROM) provides a medical classification to estimate the likelihood of in-hospital death for a patient. The ROM classes are minor, moderate, major, and extreme. The ROM class is used for the evaluation of patient mortality.
+
+This medical article is a stub. You can help Wikipedia by expanding it.

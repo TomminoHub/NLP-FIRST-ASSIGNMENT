@@ -1,0 +1,10 @@
+
+OpenGALEN is a not-for-profit organisation that provides an open source medical terminology. This terminology is written in a formal language called GRAIL (GALEN Representation And Integration Language)[1] and also distributed in OWL.
+The GALEN technologies were developed with research funding provided by the European Community Framework III (GALEN Project) and Framework IV (GALEN-In-Use Project) programmes.
+Early phases of the GALEN Programme developed the GRAIL concept modelling language, experimented with different structures for the GALEN Common Reference Model, and, in parallel, tested the usefulness of the approach with a series of clinical demonstrator projects.
+Later phases of the GALEN Programme, during the late 1990s, have concentrated on robust implementations of GRAIL and the Terminology Server, development of the GALEN Common Reference Model in both scope and detail, and development of tools and techniques to enable the further development, scaling-up and maintenance of the model. An important additional focus has been in developing tools and techniques with which we can map the information found in existing coding and Medical classification schemes to the GALEN Common Reference Model.
+OpenGALEN has been set up as a not-for-profit Dutch Foundation by the universities of Manchester and Nijmegen to make the results of the GALEN projects available to the world.
+The GALEN Common Reference Model is the model of medical concepts (or clinical terminology) being built in GRAIL. This model forms the underlying structural foundation for the services provided by a GALEN Terminology Server.
+The GALEN Common Reference Model is written in the formal language GRAIL (see below). The GRAIL statements in the model are equivalent with sentences like these:
+The GALEN Common Reference Model is available from the OpenGALEN Foundation as open source.
+The GALEN tools and technologies were used in France for the development of the French classification of procedures Classification Commune des Actes Médicaux (CCAM).

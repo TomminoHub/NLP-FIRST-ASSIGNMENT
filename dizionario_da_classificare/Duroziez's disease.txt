@@ -1,0 +1,22 @@
+{
+    "duroziez": 2,
+    "disease": 1,
+    "congenital": 1,
+    "variant": 1,
+    "mitral": 1,
+    "stenosis": 1,
+    "wa": 1,
+    "described": 1,
+    "paul": 1,
+    "louis": 1,
+    "article": 1,
+    "medical": 1,
+    "condition": 1,
+    "affecting": 1,
+    "circulatory": 1,
+    "system": 1,
+    "stub": 1,
+    "help": 1,
+    "wikipedia": 1,
+    "expanding": 1
+}

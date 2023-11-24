@@ -1,0 +1,23 @@
+{
+    "documentary": 4,
+    "heart": 3,
+    "short": 3,
+    "film": 3,
+    "article": 2,
+    "stub": 2,
+    "help": 2,
+    "wikipedia": 2,
+    "expanding": 2,
+    "american": 1,
+    "disease": 1,
+    "directed": 1,
+    "gunther": 1,
+    "von": 1,
+    "fritsch": 1,
+    "wa": 1,
+    "nominated": 1,
+    "academy": 1,
+    "award": 1,
+    "best": 1,
+    "scientific": 1
+}
