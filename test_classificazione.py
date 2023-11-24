@@ -98,6 +98,9 @@ def prior_probability(cartellamedici, cartellanonmedici):
 #in the end it sub the log of prior probability 
 #the text is classified based on the higher sum 
 
+
+
+#prova
 def text_classifier( med_dict, nonmed_dict):
     testo_risultato = {}
     
